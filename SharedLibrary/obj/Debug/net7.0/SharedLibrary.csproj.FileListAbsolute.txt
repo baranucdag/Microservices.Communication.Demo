@@ -1,0 +1,12 @@
+/Users/baranucdag/Projects/Microservices.Example/SharedLibrary/bin/Debug/net7.0/SharedLibrary.deps.json
+/Users/baranucdag/Projects/Microservices.Example/SharedLibrary/bin/Debug/net7.0/SharedLibrary.dll
+/Users/baranucdag/Projects/Microservices.Example/SharedLibrary/bin/Debug/net7.0/SharedLibrary.pdb
+/Users/baranucdag/Projects/Microservices.Example/SharedLibrary/obj/Debug/net7.0/SharedLibrary.csproj.AssemblyReference.cache
+/Users/baranucdag/Projects/Microservices.Example/SharedLibrary/obj/Debug/net7.0/SharedLibrary.GeneratedMSBuildEditorConfig.editorconfig
+/Users/baranucdag/Projects/Microservices.Example/SharedLibrary/obj/Debug/net7.0/SharedLibrary.AssemblyInfoInputs.cache
+/Users/baranucdag/Projects/Microservices.Example/SharedLibrary/obj/Debug/net7.0/SharedLibrary.AssemblyInfo.cs
+/Users/baranucdag/Projects/Microservices.Example/SharedLibrary/obj/Debug/net7.0/SharedLibrary.csproj.CoreCompileInputs.cache
+/Users/baranucdag/Projects/Microservices.Example/SharedLibrary/obj/Debug/net7.0/SharedLibrary.dll
+/Users/baranucdag/Projects/Microservices.Example/SharedLibrary/obj/Debug/net7.0/refint/SharedLibrary.dll
+/Users/baranucdag/Projects/Microservices.Example/SharedLibrary/obj/Debug/net7.0/SharedLibrary.pdb
+/Users/baranucdag/Projects/Microservices.Example/SharedLibrary/obj/Debug/net7.0/ref/SharedLibrary.dll
