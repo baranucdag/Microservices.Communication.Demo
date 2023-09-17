@@ -33,6 +33,8 @@ namespace Stock.API.Consumer
                     stock.Count -= orderItem.Count;
                     await _stockCollection.FindOneAndReplaceAsync(s => s.ProductId == orderItem.ProductId, stock);
                 }
+
+
             }
             else
             {
